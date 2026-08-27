@@ -66,30 +66,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KavishJain1904&show_icons=true&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishJain1904&layout=compact&hide_border=true"
-    height="170"
-  />
-</p>
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-  <a href="https://github.com/KavishJain1904">GitHub</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
