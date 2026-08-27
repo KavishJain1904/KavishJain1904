@@ -3,7 +3,9 @@
 ### CS undergrad @ LNMIIT Jaipur
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="www.linkedin.com/in/kavishjain1907
+
+">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -11,7 +13,7 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:kavishj1904@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
